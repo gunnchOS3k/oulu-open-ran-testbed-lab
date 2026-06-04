@@ -1,0 +1,1 @@
+CLASSES=['eMBB','URLLC','mMTC']

@@ -1,0 +1,2 @@
+# Testbed plan
+SDR optional

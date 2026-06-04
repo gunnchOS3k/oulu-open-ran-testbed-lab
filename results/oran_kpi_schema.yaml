@@ -1,0 +1,3 @@
+kpis:
+- latency_ms
+- prb_util
