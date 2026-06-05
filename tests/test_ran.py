@@ -1,4 +1,4 @@
-from oulu_ran.xapp_policy_stub import policy
+from gunnchos_ran.xapp_policy_stub import policy
 
 
 def test_policy():

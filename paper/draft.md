@@ -1,3 +1,3 @@
-# Oulu WCE Open RAN Testbed Lab
+# gunnchOS Open RAN Testbed Lab
 
 Draft research notes — not peer reviewed.
