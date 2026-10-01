@@ -1,0 +1,21 @@
+{
+  "repo": "oulu-open-ran-testbed-lab",
+  "productName": "Open RAN testbed lab",
+  "family": "Oulu preparation",
+  "classification": "STATIC_RESEARCH_SURFACE_WORKER",
+  "acceptedSha": "c86f3e497506b4e8bcd0aaed91623830af163c85",
+  "status": "STAGING_WORKER",
+  "summary": "Independent portfolio notes toward an Open RAN testbed. This Worker is not a testbed.",
+  "capabilities": [
+    "Read what is and is not built",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "No Oulu affiliation is claimed",
+    "No live Open RAN testbed is operated here"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/oulu-open-ran-testbed-lab",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-oulu-open-ran"
+}
