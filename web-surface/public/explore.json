@@ -116,5 +116,6 @@
   "methods": "Methods are the files under src/gunnchos_ran: kpi_schema.py, xapp_policy_stub.py, traffic_classes.py, and oran_loop.py, plus configs/srsran/stub.json and configs/oai/stub.json. The policy stub maps load to a slice label. No RU, DU, CU, RIC, rApp, E2, A1, or O1 relationship is recorded in this repository.",
   "cards": [],
   "runtime_mode": "PRECOMPUTED",
-  "runtime_boot": false
+  "runtime_boot": false,
+  "evidence_class": "REFERENCE_IMPLEMENTATION"
 }
